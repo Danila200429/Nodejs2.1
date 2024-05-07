@@ -1,0 +1,14 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack --config webpack.config.js",
+    "new-script": "your-command-here"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
